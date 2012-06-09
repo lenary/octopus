@@ -14,6 +14,8 @@ Progress
 Plan
 ----
 
-The plan is to have each channel have an associated process.
+The plan is to write an otp-based framework for communicating via channels.
 
-Not much else, really.
+I might introduce spec-based typing, but who knows.
+
+Then, some syntax for it! I have no idea what, but something!
