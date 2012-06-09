@@ -1,0 +1,12 @@
+{application, octopus,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { octopus_app, []}},
+  {env, []}
+ ]}.
